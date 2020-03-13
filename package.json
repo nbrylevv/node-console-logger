@@ -1,0 +1,23 @@
+{
+  "name": "node-console-logger",
+  "version": "1.0.0",
+  "description": "A few colors for that symbols world",
+  "scripts": {
+    "test": "node tests/node-console-logger.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbrylevv/node-console-logger.git"
+  },
+  "keywords": [
+    "node",
+    "console",
+    "logger"
+  ],
+  "author": "nbrylevv@github.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbrylevv/node-console-logger/issues"
+  },
+  "homepage": "https://github.com/nbrylevv/node-console-logger#readme"
+}
